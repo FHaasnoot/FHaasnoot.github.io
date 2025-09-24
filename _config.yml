@@ -1,5 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Frank's homepage
-gem "github-pages", group: :jekyll_plugins
+title: Leon docs test pagina
+gem "github-pages", group: jekyll_plugins
